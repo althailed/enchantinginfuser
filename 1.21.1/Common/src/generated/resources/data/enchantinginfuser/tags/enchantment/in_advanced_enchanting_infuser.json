@@ -1,5 +1,8 @@
 {
   "values": [
-    "#minecraft:in_enchanting_table"
+    "#minecraft:curse",
+    "#minecraft:non_treasure",
+    "#minecraft:tradeable",
+    "#minecraft:treasure"
   ]
 }
